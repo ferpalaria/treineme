@@ -4,7 +4,7 @@
 
 Exercício de desenvolvimento usando HTML e CSS
 
-Metodologia de aprendizado: [Active Recal](https://ead.ucpel.edu.br/blog/active-recall)
+Metodologia de aprendizado: [Active Recall](https://ead.ucpel.edu.br/blog/active-recall)
 
 Links citados na aula que são importantes sobre acessibilidade 
 
